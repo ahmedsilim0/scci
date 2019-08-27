@@ -1,0 +1,109 @@
+.nv0{
+	margin-left: 80%;
+}
+.bg0{
+	background-image: url("img/art-artistic-background-1020315.jpg");
+	background-size: cover;
+	height:500px;
+}
+.bg1{
+	margin-top: 5%;
+	text-align: center;
+}
+.bg2{
+	margin-top: 10%;
+	background-color: #0074D9;
+	text-align: center;
+}
+.sh1{
+	padding-top:5%; 
+	color: white;
+}
+.bg3{
+	margin-top: 10%;
+	text-align: center;
+}
+.bg4{
+	margin-top: 4%;
+}
+.r1{
+	background-color: black;
+	color: white;
+}
+.r2{
+	
+	background-color: #FF4242;
+	color: white;
+}
+.r3{
+	background-color: black;
+	color: white;
+
+}
+.bg5{
+	background-color: #343A40;
+	color: white;
+}
+.bg6{
+	background-image: url("img/backlit-chiemsee-dawn-1363876.jpg");
+	margin-top: 10%;
+	text-align: center;
+	background-size: cover;
+	height:500px;
+	color: white;
+}
+.bg7{
+	padding-top: 15%;
+}
+.bg8{
+	margin-top: 10%;
+	text-align: center;
+}
+.bg9{
+	margin-top: 10%;
+	text-align: center;
+}
+.img0{
+	width: 110%;
+}
+.text-block {
+  position: absolute;
+  bottom: 100px;
+  left: 100px;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+}
+.hr0{
+	size: 30px;
+	border:solid;
+	color: white;
+	margin-top: 20px;
+	width: 10%;
+	display: inline-block;
+}
+.checked1{
+	color: pink;
+	font-size: 30px;
+}
+.hd1{
+	color: pink;
+	font-family:Georgia; 
+}
+.bg10{
+
+	margin-top: 10%;
+}
+.f1{
+	
+	width: 40%;	
+}
+.fot0{
+	text-align: center;
+	margin-top: 6%;
+	background-color: black;
+	padding-top: 5%;
+	padding-bottom: 3%;
+	color: white;
+}
